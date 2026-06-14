@@ -1,0 +1,8 @@
+name = "SecurityCraft"
+filename = "seccraft.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/seccraft.jar"
+hash-format = "sha256"
+hash = "cce82e9f2b74b2c678241a24eeca6c656a07f55f73e16d4d860591db5ed4435f"

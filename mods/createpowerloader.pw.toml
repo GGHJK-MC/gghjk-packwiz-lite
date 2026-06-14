@@ -1,0 +1,8 @@
+name = "CreatePowerLoader"
+filename = "createPL.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createPL.jar"
+hash-format = "sha256"
+hash = "31004286d41510b07e812912f8510696065f77be593098a163701d26d4ffe17d"

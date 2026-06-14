@@ -1,0 +1,8 @@
+name = "WorldEdit"
+filename = "wrldedit.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/wrldedit.jar"
+hash-format = "sha256"
+hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"

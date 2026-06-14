@@ -1,0 +1,8 @@
+name = "FastIPPing"
+filename = "fip.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/fip.jar"
+hash-format = "sha256"
+hash = "a94b965f7bacea49d9a6253866801cc9073ca5d38e184c7695d82b6a2536b707"

@@ -1,0 +1,8 @@
+name = "ServerChatPlus"
+filename = "serverchatplus.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/serverchatplus.jar"
+hash-format = "sha256"
+hash = "3bddc01da6413072b14e046d39388bd4fd7394e3b8ba483b12eb1e3960d64323"

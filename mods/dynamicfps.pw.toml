@@ -1,0 +1,8 @@
+name = "DynamicFPS"
+filename = "dynfps.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/dynfps.jar"
+hash-format = "sha256"
+hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"

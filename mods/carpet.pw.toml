@@ -1,0 +1,8 @@
+name = "Carpet"
+filename = "carpet.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/carpet.jar"
+hash-format = "sha256"
+hash = "6a81db1098a92d7239daa992b8508daef7eb2528c4f7c9024ae3a81a34259f5c"

@@ -1,0 +1,8 @@
+name = "Tablist"
+filename = "tablist.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/tablist.jar"
+hash-format = "sha256"
+hash = "4719c97241615ca9f0bc302a0236ebbe5195c5d7e2d06d9adafaca1d0e6a1feb"

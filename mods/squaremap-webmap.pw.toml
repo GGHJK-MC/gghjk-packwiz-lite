@@ -1,0 +1,8 @@
+name = "Squaremap-WebMap"
+filename = "squaremap.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/squaremap.jar"
+hash-format = "sha256"
+hash = "e22ecd8c18a7a345c462e0988a3c6f41e366eed9a14ac276279e6edfed23813d"

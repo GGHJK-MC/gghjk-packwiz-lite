@@ -1,0 +1,8 @@
+name = "CreateNewAge"
+filename = "createNA.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createNA.jar"
+hash-format = "sha256"
+hash = "ed25425e13bd21c9fb88a4644210e5dab1f8257ccf2158330db0dd068edb9034"

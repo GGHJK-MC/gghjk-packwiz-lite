@@ -1,0 +1,18 @@
+name = "GGHJK Lite"
+author = "Beard1425"
+version = "0.1-beta"
+description = "GGHJK Lite Modpack"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bff3a2fb4223abe7733f8aa3a0a02bfb9a932d997a1986f48562c86b1e543bcc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
+
+[options]
+acceptable-game-versions = []
+datapack-folder = "world\\datapacks"

@@ -1,0 +1,8 @@
+name = "Discord"
+filename = "discord.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/discord.jar"
+hash-format = "sha256"
+hash = "859a23aff6dc5ab6459a420cb04125c1175b004bb62f0b34885fcc637a124b42"

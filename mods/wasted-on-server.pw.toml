@@ -1,0 +1,13 @@
+name = "Wasted on Server"
+filename = "wasted_on_server-neoforge-1.2.0+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/raDNVq5y/versions/LeJuwzp3/wasted_on_server-neoforge-1.2.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8d64413e59b7640148ef0eb5259e86be4d8d229f33fbd2c50ba26c3ff9c1b6299597e2fdf06eeaae8c7bc88d4c82cf2bd14649677e16d57ac2282e898527469b"
+
+[update]
+[update.modrinth]
+mod-id = "raDNVq5y"
+version = "LeJuwzp3"

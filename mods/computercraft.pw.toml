@@ -1,0 +1,8 @@
+name = "ComputerCraft"
+filename = "cctwaked.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/cctwaked.jar"
+hash-format = "sha256"
+hash = "6bebf22644ae370263b13fafdc4e9148294f594ec2deafafa559661b02e1b609"

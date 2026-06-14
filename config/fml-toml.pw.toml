@@ -1,0 +1,8 @@
+name = "FML-TOML"
+filename = "fml.toml"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/config/fml.toml"
+hash-format = "sha256"
+hash = "a0fd4d71d20f0e5158efec96dcbdf1b6ace1fdde4292a44eaf58a79ee69b97bc"

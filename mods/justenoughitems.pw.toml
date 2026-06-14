@@ -1,0 +1,8 @@
+name = "JustEnoughItems"
+filename = "JEI.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/JEI.jar"
+hash-format = "sha256"
+hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"

@@ -1,0 +1,8 @@
+name = "Mekanism"
+filename = "mek.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/mek.jar"
+hash-format = "sha256"
+hash = "0be01fe153c17a8aab4c923e44f5e7546d69b37007b757580c85af7ec846cc5a"

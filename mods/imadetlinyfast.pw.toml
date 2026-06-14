@@ -1,0 +1,8 @@
+name = "ImadetlinyFast"
+filename = "IF.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/IF.jar"
+hash-format = "sha256"
+hash = "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"

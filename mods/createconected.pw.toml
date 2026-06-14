@@ -1,0 +1,8 @@
+name = "CreateConected"
+filename = "createCO.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createCO.jar"
+hash-format = "sha256"
+hash = "f78002d3f41c30bc478b6e47028f02a20a24fd74ff8c8c22013b83b01fb4b83d"

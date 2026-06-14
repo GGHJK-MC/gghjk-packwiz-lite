@@ -1,0 +1,12 @@
+name = "XaerosWorldMap"
+filename = "worldmap.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/worldmap.jar"
+hash-format = "sha256"
+hash = "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6"
+
+[option]
+optional = true
+description = "[[Mapy]] World Mapa"

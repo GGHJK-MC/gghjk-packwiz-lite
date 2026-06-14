@@ -1,0 +1,8 @@
+name = "SlideShow"
+filename = "slideshow.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/slideshow.jar"
+hash-format = "sha256"
+hash = "a445cc68987408e8ed5270de0e0d7de4040ea1a97bb2b36e2858e39f571b766c"

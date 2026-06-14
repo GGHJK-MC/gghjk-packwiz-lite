@@ -1,0 +1,8 @@
+name = "JustEnoughResources"
+filename = "JER.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/JER.jar"
+hash-format = "sha256"
+hash = "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460"

@@ -1,0 +1,13 @@
+name = "DynamicPack"
+filename = "dynamicpack-1.2.3-b.1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IT6fZgjc/versions/mTHolcQA/dynamicpack-1.2.3-b.1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "382732f91318f94edeceea225f745242171fe4234517729b09619f877ddc9715ca73c6c4ad8c273c41eee9a13f45daa32accc72fb5cb8f15bdc3cddad4c70b1d"
+
+[update]
+[update.modrinth]
+mod-id = "IT6fZgjc"
+version = "mTHolcQA"

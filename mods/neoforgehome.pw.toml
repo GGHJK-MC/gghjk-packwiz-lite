@@ -1,0 +1,8 @@
+name = "NeoforgeHome"
+filename = "neohome.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/neohome.jar"
+hash-format = "sha256"
+hash = "eea28fd1e65e0f41d02b8a3f6aecaf5818bd803452fec6b3380e3cf9407d15b9"

@@ -1,0 +1,8 @@
+name = "InventoryView"
+filename = "inv_view.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/inv_view.jar"
+hash-format = "sha256"
+hash = "96bda9f2d2c5ed3ee8efcd6bbf21b8f14835569936d9dbb71d25255cecca148e"

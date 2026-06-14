@@ -1,0 +1,8 @@
+name = "C2ME"
+filename = "c2me.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/c2me.jar"
+hash-format = "sha256"
+hash = "765085137c5e59f3307f67c8d2b38037d388f08b4d89a465cc71abceb6b2aff4"

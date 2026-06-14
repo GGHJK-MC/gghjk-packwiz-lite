@@ -1,0 +1,8 @@
+name = "CreateAdditions"
+filename = "createA.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createA.jar"
+hash-format = "sha256"
+hash = "72653762c1014c33ce151858d1478573dbd74cbc23c74ffe1fb2d71fb73627ee"

@@ -1,0 +1,13 @@
+name = "Just Enough Mekanism Multiblocks"
+filename = "JustEnoughMekanismMultiblocks-1.21.1-7.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRaE85yQ/versions/g0Exmy3H/JustEnoughMekanismMultiblocks-1.21.1-7.7.jar"
+hash-format = "sha256"
+hash = "bcb1e9506cd5c0c9239a75c228e502c75dddb197d3e53a3a7ed86260f128ab1c"
+
+[update]
+[update.modrinth]
+mod-id = "kRaE85yQ"
+version = "g0Exmy3H"

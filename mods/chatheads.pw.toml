@@ -1,0 +1,8 @@
+name = "ChatHeads"
+filename = "chats_heads.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/chats_heads.jar"
+hash-format = "sha256"
+hash = "fb649cfcd08bbb1c68b2cc966045f6340e26e0a5fa99a5490b12ab94e3fbac3b"

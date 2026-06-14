@@ -1,0 +1,8 @@
+name = "SkinRestorer"
+filename = "skinr.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/skinr.jar"
+hash-format = "sha256"
+hash = "ac7a39fd12327b7562fb0d06bc5681026c525e7e1c375b4e88cb35667d32498e"

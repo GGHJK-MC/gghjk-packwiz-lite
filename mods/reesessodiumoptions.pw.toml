@@ -1,0 +1,8 @@
+name = "ReesesSodiumOptions"
+filename = "sodiumRSO.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/sodiumRSO.jar"
+hash-format = "sha256"
+hash = "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"

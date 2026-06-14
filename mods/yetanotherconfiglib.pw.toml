@@ -1,0 +1,8 @@
+name = "YetAnotherConfigLib"
+filename = "YACL.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/YACL.jar"
+hash-format = "sha256"
+hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"

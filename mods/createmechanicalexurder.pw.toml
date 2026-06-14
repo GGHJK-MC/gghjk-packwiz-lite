@@ -1,0 +1,8 @@
+name = "CreateMechanicalExurder"
+filename = "createME.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createME.jar"
+hash-format = "sha256"
+hash = "5923e250924e4baebd2ba99d985be39114c1a1070922ffd20d2ee1352959bec2"

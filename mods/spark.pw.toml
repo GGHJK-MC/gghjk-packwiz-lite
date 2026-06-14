@@ -1,0 +1,8 @@
+name = "Spark"
+filename = "spark.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/spark.jar"
+hash-format = "sha256"
+hash = "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"

@@ -1,0 +1,8 @@
+name = "ChunkyOffline"
+filename = "chunkyOF.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/chunkyOF.jar"
+hash-format = "sha256"
+hash = "1db9a56b000a3cd6fac29f2de3a6cce31efb998bc83c33ef8226337aa898623a"

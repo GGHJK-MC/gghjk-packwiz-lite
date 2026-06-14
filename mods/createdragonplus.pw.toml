@@ -1,0 +1,8 @@
+name = "CreateDragonPlus"
+filename = "createDP.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createDP.jar"
+hash-format = "sha256"
+hash = "4defe234ddc4edfebf3a019faccd04d729c4c25f027c58975ca24e5747512abc"

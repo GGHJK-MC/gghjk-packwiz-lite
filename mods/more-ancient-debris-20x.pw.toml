@@ -1,0 +1,13 @@
+name = "More Ancient Debris (20x)"
+filename = "more-ancient-debris-20x-v2.0-20x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R1BukMZi/versions/Foc0IC7H/more-ancient-debris-20x-v2.0-20x.jar"
+hash-format = "sha512"
+hash = "c26b7ae813350fd65a943bcacc89d680c2c0aa80f72465bd763d19ff63a6e861d51cc1e1b2e47e33e4605ddaa56efed6e512a3ecdf3d0d646fac58ccad674d59"
+
+[update]
+[update.modrinth]
+mod-id = "R1BukMZi"
+version = "Foc0IC7H"

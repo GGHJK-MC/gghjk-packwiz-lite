@@ -1,0 +1,8 @@
+name = "AdvancedPeraphials"
+filename = "AP.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/AP.jar"
+hash-format = "sha256"
+hash = "8d67e85f4530e20a10b5f7fe606d2c7b068c9a747ecd06319e1ccd7e573a5de7"

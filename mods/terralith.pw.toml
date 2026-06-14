@@ -1,0 +1,8 @@
+name = "Terralith"
+filename = "Terralith.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/Terralith.jar"
+hash-format = "sha256"
+hash = "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"

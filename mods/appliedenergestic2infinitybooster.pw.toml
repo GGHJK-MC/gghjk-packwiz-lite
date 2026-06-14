@@ -1,0 +1,8 @@
+name = "AppliedEnergestic2InfinityBooster"
+filename = "ae2ib.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/ae2ib.jar"
+hash-format = "sha256"
+hash = "498e51dae9a090a216a6923403fb982c1e225c65343bfcc8f59ac03c72be44a4"

@@ -1,0 +1,8 @@
+name = "CreateComputerCraftTotalLogistic"
+filename = "createCCL.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createCCL.jar"
+hash-format = "sha256"
+hash = "bdb11c6862f6c7c3311bb5d605264119231c7c8ce5789e8dfd54e769f04a170f"

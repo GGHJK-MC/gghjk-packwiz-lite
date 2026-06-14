@@ -1,0 +1,8 @@
+name = "Carryon"
+filename = "carryon.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/carryon.jar"
+hash-format = "sha256"
+hash = "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"

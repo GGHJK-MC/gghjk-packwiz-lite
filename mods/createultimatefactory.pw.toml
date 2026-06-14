@@ -1,0 +1,8 @@
+name = "CreateUltimateFactory"
+filename = "createUL.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createUL.jar"
+hash-format = "sha256"
+hash = "d07675d794c7e8e61134245c52393ffa12569e8d89753146d8a5171ebe5cdadb"
